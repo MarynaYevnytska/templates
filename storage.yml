@@ -1,0 +1,24 @@
+---
+:user_name: Tom
+:game_status: "failure"
+:difficulty: Hell
+:attempts_total:
+:attempts_used: -1
+:hints_total:
+:hints_used: 1
+---
+:user_name: Huy
+:game_status: "failure"
+:difficulty: Hell
+:attempts_total:
+:attempts_used: -1
+:hints_total:
+:hints_used: 0
+---
+:user_name: Stats
+:game_status: "failure"
+:difficulty: Hell
+:attempts_total:
+:attempts_used: -1
+:hints_total:
+:hints_used: 0
